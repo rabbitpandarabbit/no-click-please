@@ -1,0 +1,15 @@
+body{
+  text-align:center;
+  background-color:#FF6D00;
+}
+p{
+  font-size:100px;
+  color:white;
+}
+a{
+  border:2px solid yellow;
+  padding:10px;
+  font-size:80px;
+  color:yellow;
+  border-radius:100px;
+}
